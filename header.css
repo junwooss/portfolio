@@ -83,6 +83,7 @@ header nav ul li:hover::before {
     transform: translateY(-50%);
     right: 5%;
     font-size: 2rem;
+    cursor: default;
 }
 
 .nav-login {
