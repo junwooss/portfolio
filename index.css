@@ -371,14 +371,12 @@ main {
 .color1 {
     width: 20px;
     height: 20px;
-    cursor: pointer;
     margin-right: 5px;
 }
 
 .color2 {
     width: 20px;
     height: 20px;
-    cursor: pointer;
 }
 
 .slick-prev2 {
