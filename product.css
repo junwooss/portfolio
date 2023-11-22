@@ -495,6 +495,9 @@ textarea {
     -webkit-box-orient: vertical;
 } 
 
+.at-5> :nth-child(2)> div button {
+    cursor: default;
+}
 
 
 
@@ -562,8 +565,8 @@ textarea {
         margin-bottom: 30px;
     }
 
-    .p-review-bt {
-        margin-right: 20px;
+    .at-5> :nth-child(2)> div :nth-child(1) {
+        margin: 0 20px;
     }
 
 }
