@@ -931,7 +931,6 @@ textarea {
 .news-list section {
     border-bottom: 1px solid silver;
     margin-bottom: 40px;
-    cursor: pointer;
     padding-bottom: 20px;
 }
 
