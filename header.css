@@ -109,6 +109,7 @@ header nav ul li:hover::before {
     color: #fff;
     border: none;
     padding: 15px;
+    cursor: pointer;
 }
 
 .nav-list {
