@@ -499,6 +499,10 @@ textarea {
     cursor: default;
 }
 
+.at-5> :nth-child(2)> div> :nth-child(2) {
+    cursor: pointer;
+}
+
 
 
 
